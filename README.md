@@ -26,6 +26,9 @@
 - https://ja.wikipedia.org/wiki/Goat_Simulator#:~:text=%E3%80%8E%20Goat%20Simulator%20%E3%80%8F%EF%BC%88%E3%82%B4%E3%83%BC%E3%83%88%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%89%E3%81%AF%E3%80%81%20%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%20%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%83%BB%20Coffee%20Stain,%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%80%82%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%81%8C1%E9%A0%AD%E3%81%AE%20%E3%83%A4%E3%82%AE%20%E3%81%AB%E6%89%AE%E3%81%97%E3%81%A6%E3%82%B2%E3%83%BC%E3%83%A0%E5%86%85%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A7%E8%87%AA%E7%94%B1%E3%81%AB%E6%8C%AF%E8%88%9E%E3%81%86%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%20%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%81%BE%E3%81%9F%E3%81%AF%20%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%80%82
 
 ### コンピュータシミュレーションのもつ問題点について調べ、記述しなさい。
+- コンピューターシミュレーションでもまだまだ現実の、難しい問題を解決するのは難しい。
+- シミュレーショ音を基にした解析技術はツールや知的活動に埋もれて、認知されにくい。
 - 要因が曖昧になる
 ##### 参考記事
 - http://www.kyy.saitama-u.ac.jp/~etakagi/download/sp2000/takagi/sld005.htm
+- https://www.mext.go.jp/b_menu/shingi/chousa/shinkou/028/shiryo/__icsFiles/afieldfile/2012/05/17/1320924_5.pdf
